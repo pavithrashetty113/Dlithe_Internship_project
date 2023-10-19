@@ -26,7 +26,7 @@ Anemia and thrombocytopenia are critical health conditions that require early de
 
 To get started with this project, follow these steps:
 
-1. Clone the repository to your local machine: git clone [https://github.com/Sia-11/AIML-Internship-Dlithe.git](https://github.com/pavithrashetty113/Dlithe_Internship_project.git)
+1. Clone the repository to your local machine: git clone [https://github.com/pavithrashetty113/Dlithe_Internship_project.git]
 
 2. Set up a virtual environment for the project and install the required packages.
 
